@@ -23,7 +23,7 @@ The following tools are required and will be installed automatically if missing:
 
 ```bash
 # Download the script
-wget -O install_telemt.sh https://your-host/install_telemt.sh
+git clone https://github.com/rorythebreaker/MTproxy-installer.git
 
 # Make it executable
 chmod +x install_telemt.sh
